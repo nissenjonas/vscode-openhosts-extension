@@ -1,7 +1,7 @@
 {
-    "name": "vscode-openhost",
-    "displayName": "vscode-openhost",
-    "description": "Easily open and edit the Windows host file",
+    "name": "vscode-openhosts",
+    "displayName": "vscode-openhosts",
+    "description": "Easily open and edit the Windows hosts file",
     "version": "0.0.1",
     "publisher": "nissenjonas",
     "engines": {
@@ -11,13 +11,13 @@
         "Other"
     ],
     "activationEvents": [
-        "onCommand:extension.openHost"
+        "onCommand:extension.openHosts"
     ],
     "main": "./out/src/extension",
     "contributes": {
         "commands": [{
-            "command": "extension.openHost",
-            "title": "Open Host File"
+            "command": "extension.openHosts",
+            "title": "Open Hosts File"
         }]
     },
     "scripts": {

@@ -1,6 +1,4 @@
-# vscode-openhost
-
-This is the README for your extension "vscode-openhost". After writing up a brief description, we recommend including the following sections.
+# vscode-openhosts
 
 ## Features
 
@@ -18,4 +16,4 @@ At this time only works when running as administrator.
 
 ### 1.0.0
 
-Initial release of vscope-openhost with support for opening the Windows host file.
+Initial release of vscope-openhosts with support for opening the Windows host file.
