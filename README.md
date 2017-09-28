@@ -1,4 +1,4 @@
-# vscode-openhost README
+# vscode-openhost
 
 This is the README for your extension "vscode-openhost". After writing up a brief description, we recommend including the following sections.
 
